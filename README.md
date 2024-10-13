@@ -1,16 +1,19 @@
-## Hi there 👋
+# Ingri Torres - Tecnico en Programacion de Software
 
-<!--
-**gatitos29/gatitos29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Introducción
+- **Nombre**: Ingri Torres
+- **Título**: Tecnico en Programacion de Software
+- **Ubicación**: Bogota D.C
+- **GitHub**: [[Enlace al perfil de GitHub]](https://github.com/gatitos29)
 
-Here are some ideas to get you started:
+## Formación Académica
+- **Grado**: Tecnico en Programacion de Software
+- **lugar**: SENA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades Técnicas
+- **Lenguajes de Programación**: Html-Css-JavaScript-Php-sql
+- **Herramientas y Tecnologías**: Computadoras
+
+## Contacto
+- **Correo Electrónico**: ingridayanatorres123@gmail.com
+
